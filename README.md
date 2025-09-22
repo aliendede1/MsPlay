@@ -20,3 +20,19 @@
 ## Requisitos Opcionais
 
 - [ ] Desenvolver uma interface gráfica para controle das funcionalidades.
+
+
+## Iniciando
+
+```bash
+
+# clone o repositorio
+git clone https://github.com/aliendede1/MsPlay.git
+
+# crie a pasta do build
+mkdir build && cd build
+
+# compile
+cmake ..
+make && ./mkplayer
+```
