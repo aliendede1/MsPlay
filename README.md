@@ -1,7 +1,7 @@
 # Requisitos Funcionais
 
 1. **Reprodução de Música**
-   - [ ] Permitir reprodução de músicas locais.
+   - [x] Permitir reprodução de músicas locais.
    - [ ] Permitir reprodução contínua (loop infinito).
 
 2. **Controle de Reprodução**
